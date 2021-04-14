@@ -5,15 +5,15 @@ I am super-passionate about **software architecture**, **leadership** and **star
 
 ## Active Projects
 
-[![mehdy/Anbar - GitHub](https://gh-card.dev/repos/mehdy/Anbar.svg)](https://github.com/mehdy/Anbar)
-[![mehdy/K - GitHub](https://gh-card.dev/repos/mehdy/K.svg)](https://github.com/mehdy/K)
+[![mehdy/Anbar](https://github-readme-stats.vercel.app/api/pin/?username=mehdy&repo=Anbar&theme=dracula)](https://github.com/mehdy/Anbar)
+[![mehdy/K](https://github-readme-stats.vercel.app/api/pin/?username=mehdy&repo=K&theme=dracula)](https://github.com/mehdy/K)
 
 ### Abondoned projects
 
-[![mehdy/BlogggerBot - GitHub](https://gh-card.dev/repos/mehdy/BlogggerBot.svg)](https://github.com/mehdy/BlogggerBot)
-[![mehdy/pyeez - GitHub](https://gh-card.dev/repos/mehdy/pyeez.svg)](https://github.com/mehdy/pyeez)
-[![mehdy/go-serializer - GitHub](https://gh-card.dev/repos/mehdy/go-serializer.svg)](https://github.com/mehdy/go-serializer)
-[![mehdy/flactory - GitHub](https://gh-card.dev/repos/mehdy/flactory.svg)](https://github.com/mehdy/flactory)
+[![mehdy/BlogggerBot](https://github-readme-stats.vercel.app/api/pin/?username=mehdy&repo=BlogggerBot&theme=dracula)](https://github.com/mehdy/BlogggerBot)
+[![mehdy/pyeez](https://github-readme-stats.vercel.app/api/pin/?username=mehdy&repo=pyeez&theme=dracula)](https://github.com/mehdy/pyeez)
+[![mehdy/go-serializer](https://github-readme-stats.vercel.app/api/pin/?username=mehdy&repo=go-serializer&theme=dracula)](https://github.com/mehdy/go-serializer)
+[![mehdy/flactory](https://github-readme-stats.vercel.app/api/pin/?username=mehdy&repo=flactory&theme=dracula)](https://github.com/mehdy/flactory)
 
 ### Other profiles
 
@@ -29,6 +29,7 @@ I am super-passionate about **software architecture**, **leadership** and **star
 <a href="https://twitter.com/mehdy314">
   <img align="left" alt="Mehdy's Twitter" width="32px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
 </a>
+<br/>
 
 ### GitHub Stats
 
