@@ -1,7 +1,7 @@
 ## Hi There 👋
 
 I guess you know my name by now. I started playing with code when I was 10 and I’ve been enchanted with software since then.
-I am super-passionate about **software architecture**, **leadership** and **startups**. I spend a lot of time on reading books and articles, watching tech talks and experimenting on these subjects.
+I am super-passionate about **software engineering**, **startups** and **leadership**. I spend a lot of time on reading books and articles, watching tech talks and experimenting on these subjects.
 
 ## Active Projects
 
