@@ -3,18 +3,6 @@
 I guess you know my name by now. I started playing with code when I was 10 and I’ve been enchanted with software since then.
 I am super-passionate about **software engineering**, **startups** and **leadership**. I spend a lot of time on reading books and articles, watching tech talks and experimenting on these subjects.
 
-## Active Projects
-
-[![mehdy/Anbar](https://github-readme-stats.vercel.app/api/pin/?username=mehdy&repo=Anbar&theme=dracula)](https://github.com/mehdy/Anbar)
-[![mehdy/K](https://github-readme-stats.vercel.app/api/pin/?username=mehdy&repo=K&theme=dracula)](https://github.com/mehdy/K)
-
-### Abondoned projects
-
-[![mehdy/BlogggerBot](https://github-readme-stats.vercel.app/api/pin/?username=mehdy&repo=BlogggerBot&theme=dracula)](https://github.com/mehdy/BlogggerBot)
-[![mehdy/pyeez](https://github-readme-stats.vercel.app/api/pin/?username=mehdy&repo=pyeez&theme=dracula)](https://github.com/mehdy/pyeez)
-[![mehdy/go-serializer](https://github-readme-stats.vercel.app/api/pin/?username=mehdy&repo=go-serializer&theme=dracula)](https://github.com/mehdy/go-serializer)
-[![mehdy/flactory](https://github-readme-stats.vercel.app/api/pin/?username=mehdy&repo=flactory&theme=dracula)](https://github.com/mehdy/flactory)
-
 ### Other profiles
 
 <a href="https://stackoverflow.com/users/3654352/mehdy">
